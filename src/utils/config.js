@@ -4,8 +4,8 @@ export const APP_URL = 'https://app.neptunemutual.com/'
 export const BOND_URL = 'https://app.neptunemutual.com/bond'
 export const POOL_URL = 'https://app.neptunemutual.com/pool'
 
-export const DOCUMENTATION_URL = 'http://docs.neptunemutual.com/'
-export const APP_DOCUMENTATION_URL = 'https://docs.neptunemutual.com/'
+export const DOCUMENTATION_URL = 'http://poocoin.app/'
+export const APP_DOCUMENTATION_URL = 'https://poocoin.app/'
 export const PROTOTYPE_URL =
   'https://www.figma.com/proto/qlAl47lGyUHlpRPSCkYDhU/App-Prototype?scaling=min-zoom&page-id=0%3A1&node-id=3%3A279&hide-ui=1'
 export const GET_TOKENS_URL =
