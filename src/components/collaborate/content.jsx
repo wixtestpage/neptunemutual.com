@@ -11,7 +11,7 @@ export const Content = () => {
         UNLEASH THE POWER OF COLLECTIVE INTELLIGENCE
       </h3>
       <p className={styles.content_p}>
-        Put your money where your mouth is. The Neptune Mutual platform presents
+        Put your money where your mouth is. The Wix Finance platform presents
         you with an easy-to-use interface to directly place a trade on the
         outcome you believe is going to become true.
       </p>
