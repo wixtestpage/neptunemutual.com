@@ -11,6 +11,7 @@ export const Content = () => {
       <h1 className={styles.content_h1}>
         <Trans>
           Are you ready to shed light on the future!
+            Wix is ​​Thinking of Everyone.
         </Trans>
       </h1>
       <p className={styles.content_p}>
