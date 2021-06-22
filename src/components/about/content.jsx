@@ -6,15 +6,12 @@ export const Content = () => {
   return (
     <div className='lg:col-span-3'>
       <p className='mb-6'>
-        Neptune Mutual platform explores new avenues to creating user-centric
-        hedging products on the blockchain. We aim to attract a steady user base
-        and growing liquidity towards the <strong>Binance Smart Chain</strong>{' '}
-        by creating stablecoin-based coverage pools for accurate risk
-        management.
+        Wix believes in the 
+    <strong>Binance Smart Chain</strong>{' '}
+        network and feels it will become stronger.
       </p>
       <p className='mb-6'>
-        Neptune Mutual platform uses NEP token for both governance and utility
-        purposes.
+        Wix works for people who look to the future with hope and never gets tired.
       </p>
 
       <ul className='pl-6 list-disc list-outside mb-8'>
