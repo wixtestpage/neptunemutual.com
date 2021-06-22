@@ -9,11 +9,11 @@ export const Content = () => {
         risks involved. Before trading, please take into consideration your
         level of experience, investment objectives, and seek independent
         financial advice if necessary. It is your responsibility to ascertain
-        whether you are permitted to use the services of Neptune Mutual based on
+        whether you are permitted to use the services of Wix Finance based on
         the legal requirements in your country of residence.
       </p>
       <p className='text-center font-bold tracking-wider text-base'>
-        Neptune Mutual &copy; 2021
+        Wix Finance &copy; 2021
       </p>
     </>
   )
