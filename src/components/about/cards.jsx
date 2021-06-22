@@ -7,14 +7,14 @@ const data = [
     icon: '/icons/about/sun.svg',
     title: 'Trustless & Decentralized',
     content:
-      'Neptune Mutual platform capitalizes on the power of decentralization and acts in the best interest of the community.',
+      'Wix Finance platform capitalizes on the power of decentralization and acts in the best interest of the community.',
     className: styles.card_1
   },
   {
     icon: '/icons/about/user_plus.svg',
     title: 'Community Focused',
     content:
-      'There is no dual or tipple token system or a continuous token supply. NEP governance tokens are fixed and deflationary.',
+      'There is no dual or tipple token system or a continuous token supply. WIX governance tokens are fixed and deflationary.',
     className: styles.card_2
   },
   {
@@ -28,7 +28,7 @@ const data = [
     icon: '/icons/about/trending_down.svg',
     title: 'Cheaper & Efficient',
     content:
-      'Neptune Mutual platform leverages cheaper transactions, higher throughput, and scalability of the Binance Smart Chain to bring you a robust set of hedging features and functionalities.',
+      'Wix Finance platform leverages cheaper transactions, higher throughput, and scalability of the Binance Smart Chain to bring you a robust set of hedging features and functionalities.',
     className: styles.card_4
   }
 ]
