@@ -15,9 +15,9 @@ export const Content = () => {
       </p>
 
       <ul className='pl-6 list-disc list-outside mb-8'>
-        <li>Use NEP to stake and create contracts and markets</li>
-        <li>Burn NEP to create contracts and markets</li>
-        <li>Use NEP to vote in the governance of the platform’s future</li>
+        <li>Use WIX to stake and create contracts and markets</li>
+        <li>Burn WIX to create contracts and markets</li>
+        <li>Use WIX to vote in the governance of the platform’s future</li>
         <li>
           Lock NEP to provide liquidity, secure the protocol, and yield
           additional rewards
