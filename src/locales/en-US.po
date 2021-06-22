@@ -18,8 +18,8 @@ msgid "LAUNCH APP"
 msgstr "LAUNCH APP"
 
 #: src/components/hero/content.jsx:18
-msgid "Neptune Mutual provides you with <0>guaranteed stablecoin liquidity</0> to reduce your risk exposure by hedging against possible capital risks and smart contract vulnerabilities."
-msgstr "Neptune Mutual provides you with <0>guaranteed stablecoin liquidity</0> to reduce your risk exposure by hedging against possible capital risks and smart contract vulnerabilities."
+msgid "Wix Finance provides you with <0>guaranteed stablecoin liquidity</0> to reduce your risk exposure by hedging against possible capital risks and smart contract vulnerabilities."
+msgstr "Wix Finance provides you with <0>guaranteed stablecoin liquidity</0> to reduce your risk exposure by hedging against possible capital risks and smart contract vulnerabilities."
 
 #: src/components/hero/content.jsx:12
 msgid "Reduce your exposure to cryptocurrency market risks. Act before it’s too late!"
