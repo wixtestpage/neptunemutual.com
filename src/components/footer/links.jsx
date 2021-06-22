@@ -42,22 +42,22 @@ const textLinks = [
 const iconLinks = [
   {
     name: 'GitHub',
-    href: 'https://github.com/neptune-mutual',
+    href: 'https://github.com',
     iconSrc: '/icons/footer/github.svg'
   },
   {
     name: 'Twitter',
-    href: 'https://twitter.com/neptunemutual',
+    href: 'https://twitter.com/wixfinance',
     iconSrc: '/icons/footer/twitter.svg'
   },
   {
     name: 'Reddit',
-    href: 'https://www.reddit.com/r/NeptuneMutual/',
+    href: 'https://www.reddit.com/r/WixFinance/',
     iconSrc: '/icons/footer/reddit.svg'
   },
   {
     name: 'LinkedIn',
-    href: 'https://www.linkedin.com/company/neptune-mutual',
+    href: 'https://www.linkedin.com/company',
     iconSrc: '/icons/footer/linkedin.svg'
   },
   {
@@ -68,17 +68,17 @@ const iconLinks = [
   {
     name: 'BSCScan',
     href:
-      'https://bscscan.com/token/0xce3805a443ebb27b2a4058ec9d94dc4f9c000633',
+      'https://bscscan.com/token/0x00000',
     iconSrc: '/icons/footer/bscscan.svg'
   },
   {
     name: 'Medium',
-    href: 'https://neptunemutual.medium.com',
+    href: 'https://0.medium.com',
     iconSrc: '/icons/footer/medium.svg'
   },
   {
     name: 'Telegram',
-    href: 'https://t.me/neptunemutual',
+    href: 'https://t.me/wixfinance',
     iconSrc: '/icons/footer/telegram.svg'
   }
 ]
