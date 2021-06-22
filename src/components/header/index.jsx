@@ -13,7 +13,7 @@ export const Header = () => {
             <source media='(min-width: 120px)' srcSet='/nep-icon.svg' />
             <img
               src='/nep-icon.svg'
-              alt='Neptune Mutual'
+              alt='Wix Finance'
               height='64'
               loading='lazy'
             />
