@@ -15,7 +15,7 @@ export const Content = () => {
         experience research we’ve already completed.
       </p>
       <p className={styles.content_p}>
-        We’ve successfully bootstrapped Neptune Mutual so far intending to not
+        We’ve successfully bootstrapped Wix Finance so far intending to not
         burn millions of dollars worth of precious investor capital to build a
         solution nobody wants. If our product gains initial traction, we will
         then consider exploring options to perform a public token sale.
