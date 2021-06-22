@@ -2,19 +2,19 @@
 <svg width="330" height="64" xmlns="http://www.w3.org/2000/svg" fill="none">
  <defs>
   <clipPath id="clip0">
-   <rect width="63.9998" height="64" fill="white" id="svg_1"/>
+   <rect id="svg_1" fill="white" height="64" width="63.9998"/>
   </clipPath>
-  <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,31.0625,-31.124900817871094,0,31.999901175498962,32.33647155761719)">
+  <radialGradient gradientTransform="matrix(0,31.0625,-31.124900817871094,0,31.999901175498962,32.33647155761719)" gradientUnits="userSpaceOnUse" r="1" cy="0" cx="0" id="paint0_radial">
    <stop stop-color="#0F2441"/>
-   <stop offset="1" stop-color="#1E4F94"/>
+   <stop stop-color="#1E4F94" offset="1"/>
   </radialGradient>
  </defs>
  <g>
   <title>Layer 1</title>
-  <g clip-path="url(#clip0)" id="svg_15">
-   <path d="m26.5958,63.16607c-2.7512,0.74 -5.6807,-0.3224 -7.2565,-2.6315l-17.36964,-25.4533c-1.57574,-2.3091 -1.43926,-5.3396 0.33805,-7.5067l19.59159,-23.88755c1.7774,-2.16703 4.7912,-2.97764 7.4654,-2.00786l29.478,10.69001c2.6742,0.9697 4.4004,3.4993 4.2758,6.2657l-1.3732,30.4943c-0.1246,2.7664 -2.0716,5.1404 -4.8228,5.8803l-30.3267,8.1566z" fill="url(#paint0_radial)" id="svg_16"/>
+  <g id="svg_15" clip-path="url(#clip0)">
+   <path id="svg_16" fill="url(#paint0_radial)" d="m26.5958,63.16607c-2.7512,0.74 -5.6807,-0.3224 -7.2565,-2.6315l-17.36964,-25.4533c-1.57574,-2.3091 -1.43926,-5.3396 0.33805,-7.5067l19.59159,-23.88755c1.7774,-2.16703 4.7912,-2.97764 7.4654,-2.00786l29.478,10.69001c2.6742,0.9697 4.4004,3.4993 4.2758,6.2657l-1.3732,30.4943c-0.1246,2.7664 -2.0716,5.1404 -4.8228,5.8803l-30.3267,8.1566z"/>
   </g>
-  <text fill="#ffffff" x="81.21404" y="29.89773" id="svg_79" stroke-width="0" font-size="24" font-family="'Rounded Mplus 1c Bold'" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal" stroke="null" transform="matrix(1.59569 0 0 1.70465 -48.7531 -3.13788)">WIX FINANCE</text>
-  <text fill="#e5e5e5" stroke-width="0" x="16.99459" y="32.06506" id="svg_81" font-size="24" font-family="'Poppins Thin'" text-anchor="start" xml:space="preserve" font-weight="normal" font-style="normal" stroke="null" transform="matrix(2.08802 0 0 1.48611 -21.7921 -2.68779)">w</text>
+  <text transform="matrix(1.59569 0 0 1.70465 -48.7531 -3.13788)" stroke="null" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Rounded Mplus 1c Bold'" font-size="24" stroke-width="0" id="svg_79" y="29.89773" x="81.21404" fill="#ffffff">WIX FINANCE</text>
+  <text transform="matrix(2.5403 0 0 1.94444 -34.6434 -7.72)" stroke="null" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Quicksand Light'" font-size="24" id="svg_81" y="29.01595" x="18.09796" stroke-width="0" fill="#e5e5e5">w</text>
  </g>
 </svg>
