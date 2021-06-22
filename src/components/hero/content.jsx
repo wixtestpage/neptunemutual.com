@@ -10,13 +10,12 @@ export const Content = () => {
     <div className='text-center w-full max-w-5xl flex flex-col items-center'>
       <h1 className={styles.content_h1}>
         <Trans>
-          Reduce your exposure to cryptocurrency market risks. Act before it’s
-          too late!
+          Are you ready to shed light on the future!
         </Trans>
       </h1>
       <p className={styles.content_p}>
         <Trans>
-          Neptune Mutual provides you with{' '}
+          Wix Finance provides you with{' '}
           <span className='text-gray-100'>guaranteed stablecoin liquidity</span>{' '}
           to reduce your risk exposure by hedging against possible capital risks
           and smart contract vulnerabilities.
