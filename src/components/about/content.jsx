@@ -19,10 +19,10 @@ export const Content = () => {
         <li>Burn WIX to create contracts and markets</li>
         <li>Use WIX to vote in the governance of the platform’s future</li>
         <li>
-          Lock NEP to provide liquidity, secure the protocol, and yield
+          Lock QIX to provide liquidity, secure the protocol, and yield
           additional rewards
         </li>
-        <li>Hold NEP in your wallet to purchase and claim coverage</li>
+        <li>Hold WIX in your wallet to purchase and claim coverage</li>
       </ul>
       <OutlineLink
         href={GET_TOKENS_URL}
