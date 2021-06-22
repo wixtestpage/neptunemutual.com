@@ -21,7 +21,7 @@ export const Header = () => {
         </a>
         <nav className={styles.nav}>
           <a href={DOCUMENTATION_URL} target='_blank' rel='noopener noreferrer'>
-            documentation
+            CHARTS
           </a>
           <LanguageSelector />
         </nav>
